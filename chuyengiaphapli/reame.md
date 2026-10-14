@@ -14,6 +14,9 @@
   - CSS3 để thiết kế giao diện và responsive.
   - JavaScript để tải dữ liệu từ API và tìm kiếm/lọc danh sách chuyên gia.
   - JSON Server để cung cấp dữ liệu chuyên gia qua REST API.
-- [ ] **Link Figma:** Bổ sung tại đây.
-- [ ] **Link video:** Bổ sung tại đây.
-- [ ] **Link GitHub:** Bổ sung tại đây.
+- [x] **Link Figma:**
+  https://www.figma.com/design/Rlq6CL8YqGJIdCXuK0bUdR/project-web?node-id=0-1&t=i8vLmU3iH3zl57Ux-1
+- [x] **Link video:** 
+  https://youtu.be/0dgA2lqHRgA.
+- [x] **Link GitHub:**
+      https://github.com/lecongson01052007-cloud/baigiuakicse
